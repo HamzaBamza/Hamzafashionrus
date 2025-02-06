@@ -1,11 +1,11 @@
 @media (min-width: 800px) {
-  .category_list_container {
+  .PLcontainer {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     gap: 2rem;
   }
 
-  .product_grid {
+  .product-grid {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     gap: 20px;
